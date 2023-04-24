@@ -1,122 +1,112 @@
 [
   {
     "id": 1,
-    "title": "The Avengers",
-    "description": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
-    "poster_url": "https://www.example.com/the_avengers.jpg",
-    "release_year": 2012,
-    "genre": ["Action", "Adventure", "Sci-Fi"],
-    "director": "Joss Whedon",
-    "actors": ["Robert Downey Jr.", "Chris Evans", "Mark Ruffalo"]
+    "name": "The Shawshank Redemption",
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "image": "https://www.example.com/shawshank_redemption.jpg",
+    "release_year": 1994,
+    "genre": ["Drama"],
+    "director": "Frank Darabont",
+    "actors": ["Tim Robbins", "Morgan Freeman"],
+    "trailer": "https://www.example.com/shawshank_redemption_trailer.mp4"
   },
   {
     "id": 2,
-    "title": "The Lion King",
-    "description": "After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery.",
-    "poster_url": "https://www.example.com/the_lion_king.jpg",
-    "release_year": 2019,
-    "genre": ["Animation", "Adventure", "Drama"],
-    "director": "Jon Favreau",
-    "actors": ["Donald Glover", "Beyoncé", "James Earl Jones"]
+    "name": "The Godfather",
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "image": "https://www.example.com/godfather.jpg",
+    "release_year": 1972,
+    "genre": ["Crime", "Drama"],
+    "director": "Francis Ford Coppola",
+    "actors": ["Marlon Brando", "Al Pacino"],
+    "trailer": "https://www.example.com/godfather_trailer.mp4"
   },
   {
     "id": 3,
-    "title": "Joker",
-    "description": "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker.",
-    "poster_url": "https://www.example.com/joker.jpg",
-    "release_year": 2019,
-    "genre": ["Crime", "Drama", "Thriller"],
-    "director": "Todd Phillips",
-    "actors": ["Joaquin Phoenix", "Robert De Niro", "Zazie Beetz"]
+    "name": "The Dark Knight",
+    "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "image": "https://www.example.com/dark_knight.jpg",
+    "release_year": 2008,
+    "genre": ["Action", "Crime", "Drama"],
+    "director": "Christopher Nolan",
+    "actors": ["Christian Bale", "Heath Ledger"],
+    "trailer": "https://www.example.com/dark_knight_trailer.mp4"
   },
   {
     "id": 4,
-    "title": "Black Widow",
-    "description": "Natasha Romanoff confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.",
-    "poster_url": "https://www.example.com/black_widow.jpg",
-    "release_year": 2021,
-    "genre": ["Action", "Adventure", "Thriller"],
-    "director": "Cate Shortland",
-    "actors": ["Scarlett Johansson", "Florence Pugh", "David Harbour"]
+    "name": "The Godfather: Part II",
+    "description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+    "image": "https://www.example.com/godfather_part_ii.jpg",
+    "release_year": 1974,
+    "genre": ["Crime", "Drama"],
+    "director": "Francis Ford Coppola",
+    "actors": ["Al Pacino", "Robert De Niro"],
+    "trailer": "https://www.example.com/godfather_part_ii_trailer.mp4"
   },
   {
     "id": 5,
-    "title": "Spider-Man: No Way Home",
-    "description": "For the first time in the cinematic history of Spider-Man, our friendly neighborhood hero is unmasked and no longer able to separate his normal life from the high-stakes of being a superhero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
-    "poster_url": "https://www.example.com/spiderman_no_way_home.jpg",
-    "release_year": 2021,
-    "genre": ["Action", "Adventure", "Fantasy"],
-    "director": "Jon Watts",
-    "actors": ["Tom Holland", "Zendaya", "Benedict Cumberbatch"]
+    "name": "The Simpsons Movie",
+    "description": "After Homer accidentally pollutes the town's water supply, Springfield is encased in a gigantic dome by the EPA and the Simpsons family are declared fugitives.",
+    "image": "https://www.example.com/simpsons_movie.jpg",
+    "release_year": 2007,
+    "genre": ["Animation", "Comedy"],
+    "director": "David Silverman",
+    "actors": ["Dan Castellaneta", "Julie Kavner"],
+    "trailer": "https://www.example.com/simpsons_movie_trailer.mp4"
   },
   {
-  "id": 6,
-  "title": "The Lost City",
-  "description": "An author goes on a mission to save her kidnapped brother and discovers a lost city in the process.",
-  "poster_url": "https://www.example.com/the_lost_city.jpg",
-  "release_year": 2022,
-  "genre": ["Adventure", "Comedy"],
-  "director": "Aaron Nee, Adam Nee",
-  "actors": ["Channing Tatum", "Sandra Bullock", "Daniel Radcliffe"]
-},
-{
-  "id": 7,
-  "title": "The Harder They Fall",
-  "description": "A revengeful outlaw seeks to take down a notorious gang leader and his gang in a blood-soaked Western showdown.",
-  "poster_url": "https://www.example.com/the_harder_they_fall.jpg",
-  "release_year": 2021,
-  "genre": ["Western", "Action"],
-  "director": "Jeymes Samuel",
-  "actors": ["Jonathan Majors", "Idris Elba", "Zazie Beetz"]
-},
-{
-  "id": 8,
-  "title": "The Night House",
-  "description": "A widow uncovers unsettling secrets about her late husband while staying at their lake house.",
-  "poster_url": "https://www.example.com/the_night_house.jpg",
-  "release_year": 2020,
-  "genre": ["Horror", "Mystery"],
-  "director": "David Bruckner",
-  "actors": ["Rebecca Hall", "Sarah Goldberg", "Vondie Curtis-Hall"]
-},
-{
-  "id": 9,
-  "title": "The Lost Daughter",
-  "description": "A woman's beach vacation takes a dark turn when she becomes obsessed with a young mother and her daughter.",
-  "poster_url": "https://www.example.com/the_lost_daughter.jpg",
-  "release_year": 2021,
-  "genre": ["Drama", "Thriller"],
-  "director": "Maggie Gyllenhaal",
-  "actors": ["Olivia Colman", "Dakota Johnson", "Jesse Buckley"]
-},
-{
+    "id": 6,
+    "name": "The Matrix",
+    "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+    "image": "https://www.example.com/matrix.jpg",
+    "release_year": 1999,
+    "genre": ["Action", "Sci-Fi"],
+    "director": "The Wachowski Brothers",
+    "actors": ["Keanu Reeves", "Laurence Fishburne"],
+    "trailer": "https://www.example.com/matrix_trailer.mp4"
+  },
+  
+  {
+    "id": 7,
+    "name": "Forrest Gump",
+    "description": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate and other historical events unfold through the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
+    "image": "https://www.example.com/forrest_gump.jpg",
+    "release_year": 1994,
+    "genre": ["Comedy", "Drama", "Romance"],
+    "director": "Robert Zemeckis",
+    "actors": ["Tom Hanks", "Robin Wright"],
+    "trailer": "https://www.example.com/forrest_gump_trailer.mp4"
+  },
+  {
+    "id": 8,
+    "name": "The Shawshank Redemption",
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "image": "https://www.example.com/shawshank_redemption.jpg",
+    "release_year": 1994,
+    "genre": ["Drama"],
+    "director": "Frank Darabont",
+    "actors": ["Tim Robbins", "Morgan Freeman"],
+    "trailer": "https://www.example.com/shawshank_redemption_trailer.mp4"
+  },
+  {
+    "id": 9,
+    "name": "The Simpsons Movie 2",
+    "description": "The Simpson family goes on a wild adventure after Homer finds a secret map that leads to a hidden treasure.",
+    "image": "https://www.example.com/simpsons_movie_2.jpg",
+    "release_year": 2023,
+    "genre": ["Animation", "Comedy"],
+    "director": "David Silverman",
+    "actors": ["Dan Castellaneta", "Julie Kavner"],
+    "trailer": "https://www.example.com/simpsons_movie_2_trailer.mp4"
+  },
+  {
   "id": 10,
-  "title": "Red Notice",
-  "description": "An Interpol agent tracks down the world's most wanted art thief.",
-  "poster_url": "https://www.example.com/red_notice.jpg",
-  "release_year": 2021,
-  "genre": ["Action", "Comedy"],
-  "director": "Rawson Marshall Thurber",
-  "actors": ["Dwayne Johnson", "Gal Gadot", "Ryan Reynolds"]
-},
-{
-    "id": 11,
-    "title": "The Simpsons Movie 2",
-    "description": "Homer, Marge, Bart, Lisa, and Maggie return for a new big-screen adventure. This time, the family must save Springfield from an evil billionaire's plan to turn the town into a giant shopping mall.",
-    "poster_url": "https://www.example.com/the_simpsons_movie_2.jpg",
-    "release_year": 2024,
-    "genre": ["Comedy", "Animation", "Adventure"],
-    "director": "David Silverman",
-    "actors": ["Dan Castellaneta", "Julie Kavner", "Nancy Cartwright"]
-},
-{
-    "id": 12,
-    "title": "The Simpsons Movie: Return to Alaska",
-    "description": "Homer, Marge, Bart, Lisa, and Maggie embark on a new adventure to Alaska, where they get stranded in the wilderness after their plane crashes. They must work together to survive in the wild and find their way back home.",
-    "poster_url": "https://www.example.com/the_simpsons_movie_return_to_alaska.jpg",
-    "release_year": 2026,
-    "genre": ["Comedy", "Animation", "Adventure"],
-    "director": "David Silverman",
-    "actors": ["Dan Castellaneta", "Julie Kavner", "Nancy Cartwright"]
+  "name": "The Turning Point",
+  "description": "A story about two women, one a dedicated ballerina who sacrificed everything for her art, and the other a young woman from Seattle whose passion for dance overshadowed everything else in her life.",
+  "image": "https://www.example.com/the_turning_point.jpg",
+  "release_year": 1977,
+  "genre": ["Drama"],
+  "director": "Herbert Ross",
+  "actors": ["Anne Bancroft", "Shirley MacLaine"],
+  "trailer": "https://www.example.com/the_turning_point_trailer.mp4"
 }
-]
