@@ -1,3 +1,4 @@
+  [
   {
     "id": 1,
     "name": "The Shawshank Redemption",
@@ -119,3 +120,4 @@
   "actors": ["Anne Bancroft", "Shirley MacLaine"],
   "trailer": "https://www.example.com/the_turning_point_trailer.mp4"
 }
+]
