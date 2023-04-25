@@ -1,4 +1,3 @@
-[
   {
     "id": 1,
     "name": "The Shawshank Redemption",
@@ -7,6 +6,7 @@
     "release_year": 1994,
     "genre": ["Drama"],
     "director": "Frank Darabont",
+    "length_minutes":125,
     "actors": ["Tim Robbins", "Morgan Freeman"],
     "trailer": "https://www.example.com/shawshank_redemption_trailer.mp4"
   },
@@ -18,6 +18,7 @@
     "release_year": 1972,
     "genre": ["Crime", "Drama"],
     "director": "Francis Ford Coppola",
+    "length_minutes":125,
     "actors": ["Marlon Brando", "Al Pacino"],
     "trailer": "https://www.example.com/godfather_trailer.mp4"
   },
@@ -29,6 +30,7 @@
     "release_year": 2008,
     "genre": ["Action", "Crime", "Drama"],
     "director": "Christopher Nolan",
+    "length_minutes":125,
     "actors": ["Christian Bale", "Heath Ledger"],
     "trailer": "https://www.example.com/dark_knight_trailer.mp4"
   },
@@ -40,6 +42,7 @@
     "release_year": 1974,
     "genre": ["Crime", "Drama"],
     "director": "Francis Ford Coppola",
+    "length_minutes":125,
     "actors": ["Al Pacino", "Robert De Niro"],
     "trailer": "https://www.example.com/godfather_part_ii_trailer.mp4"
   },
@@ -51,6 +54,7 @@
     "release_year": 2007,
     "genre": ["Animation", "Comedy"],
     "director": "David Silverman",
+    "length_minutes":125,
     "actors": ["Dan Castellaneta", "Julie Kavner"],
     "trailer": "https://www.example.com/simpsons_movie_trailer.mp4"
   },
@@ -62,6 +66,7 @@
     "release_year": 1999,
     "genre": ["Action", "Sci-Fi"],
     "director": "The Wachowski Brothers",
+    "length_minutes":125,
     "actors": ["Keanu Reeves", "Laurence Fishburne"],
     "trailer": "https://www.example.com/matrix_trailer.mp4"
   },
@@ -74,6 +79,7 @@
     "release_year": 1994,
     "genre": ["Comedy", "Drama", "Romance"],
     "director": "Robert Zemeckis",
+    "length_minutes":125,
     "actors": ["Tom Hanks", "Robin Wright"],
     "trailer": "https://www.example.com/forrest_gump_trailer.mp4"
   },
@@ -85,6 +91,7 @@
     "release_year": 1994,
     "genre": ["Drama"],
     "director": "Frank Darabont",
+    "length_minutes":125,
     "actors": ["Tim Robbins", "Morgan Freeman"],
     "trailer": "https://www.example.com/shawshank_redemption_trailer.mp4"
   },
@@ -96,6 +103,7 @@
     "release_year": 2023,
     "genre": ["Animation", "Comedy"],
     "director": "David Silverman",
+    "length_minutes":125,
     "actors": ["Dan Castellaneta", "Julie Kavner"],
     "trailer": "https://www.example.com/simpsons_movie_2_trailer.mp4"
   },
@@ -107,6 +115,7 @@
   "release_year": 1977,
   "genre": ["Drama"],
   "director": "Herbert Ross",
+  "length_minutes":125,
   "actors": ["Anne Bancroft", "Shirley MacLaine"],
   "trailer": "https://www.example.com/the_turning_point_trailer.mp4"
 }
