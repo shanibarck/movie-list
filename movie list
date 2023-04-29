@@ -62,7 +62,7 @@
     "length_minutes":125,
     "min_age":18,
     "actors": ["Dan Castellaneta", "Julie Kavner"],
-    "trailer": "https://www.example.com/simpsons_movie_trailer.mp4"
+    "trailer": "https://www.youtube.com/embed/XPG0MqIcby8?start=23"
   },
   {
     "movie_id": 6,
