@@ -1,6 +1,6 @@
   [
   {
-    "id": 1,
+    "movie_id": 1,
     "name": "The Shawshank Redemption",
     "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
     "image": "https://www.example.com/shawshank_redemption.jpg",
@@ -13,7 +13,7 @@
     "trailer": "https://www.example.com/shawshank_redemption_trailer.mp4"
   },
   {
-    "id": 2,
+    "movie_id": 2,
     "name": "The Godfather",
     "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
     "image": "https://www.example.com/godfather.jpg",
@@ -26,7 +26,7 @@
     "trailer": "https://www.example.com/godfather_trailer.mp4"
   },
   {
-    "id": 3,
+    "movie_id": 3,
     "name": "The Dark Knight",
     "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
     "image": "https://www.example.com/dark_knight.jpg",
@@ -39,7 +39,7 @@
     "trailer": "https://www.example.com/dark_knight_trailer.mp4"
   },
   {
-    "id": 4,
+    "movie_id": 4,
     "name": "The Godfather: Part II",
     "description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
     "image": "https://www.example.com/godfather_part_ii.jpg",
@@ -52,7 +52,7 @@
     "trailer": "https://www.example.com/godfather_part_ii_trailer.mp4"
   },
   {
-    "id": 5,
+    "movie_id": 5,
     "name": "The Simpsons Movie",
     "description": "After Homer accidentally pollutes the town's water supply, Springfield is encased in a gigantic dome by the EPA and the Simpsons family are declared fugitives.",
     "image": "https://www.example.com/simpsons_movie.jpg",
@@ -65,7 +65,7 @@
     "trailer": "https://www.example.com/simpsons_movie_trailer.mp4"
   },
   {
-    "id": 6,
+    "movie_id": 6,
     "name": "The Matrix",
     "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
     "image": "https://www.example.com/matrix.jpg",
@@ -79,7 +79,7 @@
   },
   
   {
-    "id": 7,
+    "movie_id": 7,
     "name": "Forrest Gump",
     "description": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate and other historical events unfold through the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
     "image": "https://www.example.com/forrest_gump.jpg",
@@ -92,7 +92,7 @@
     "trailer": "https://www.example.com/forrest_gump_trailer.mp4"
   },
   {
-    "id": 8,
+    "movie_id": 8,
     "name": "The Shawshank Redemption",
     "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
     "image": "https://www.example.com/shawshank_redemption.jpg",
@@ -105,7 +105,7 @@
     "trailer": "https://www.example.com/shawshank_redemption_trailer.mp4"
   },
   {
-    "id": 9,
+    "movie_id": 9,
     "name": "The Simpsons Movie 2",
     "description": "The Simpson family goes on a wild adventure after Homer finds a secret map that leads to a hidden treasure.",
     "image": "https://www.example.com/simpsons_movie_2.jpg",
@@ -118,7 +118,7 @@
     "trailer": "https://www.example.com/simpsons_movie_2_trailer.mp4"
   },
   {
-  "id": 10,
+  "movie_id": 10,
   "name": "The Turning Point",
   "description": "A story about two women, one a dedicated ballerina who sacrificed everything for her art, and the other a young woman from Seattle whose passion for dance overshadowed everything else in her life.",
   "image": "https://www.example.com/the_turning_point.jpg",
