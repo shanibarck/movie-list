@@ -75,7 +75,7 @@
     "length_minutes":125,
     "min_age":18,
     "actors": ["Keanu Reeves", "Laurence Fishburne"],
-    "trailer": "https://www.example.com/matrix_trailer.mp4"
+    "trailer": "https://www.youtube.com/embed/vKQi3bBA1y8" 
   },
   
   {
@@ -89,7 +89,7 @@
     "length_minutes":125,
     "min_age":18,
     "actors": ["Tom Hanks", "Robin Wright"],
-    "trailer": "https://www.example.com/forrest_gump_trailer.mp4"
+    "trailer": "https://www.youtube.com/embed/bLvqoHBptjg"
   },
   {
     "movie_id": 8,
