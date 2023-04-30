@@ -23,7 +23,7 @@
     "length_minutes":125,
     "min_age":18,
     "actors": ["Marlon Brando", "Al Pacino"],
-    "trailer": "https://www.example.com/godfather_trailer.mp4"
+    "trailer": "https://www.youtube.com/embed/1x0GpEZnwa8"
   },
   {
     "movie_id": 3,
@@ -49,7 +49,7 @@
     "length_minutes":125,
     "min_age":18,
     "actors": ["Al Pacino", "Robert De Niro"],
-    "trailer": "https://www.example.com/godfather_part_ii_trailer.mp4"
+    "trailer": "https://www.youtube.com/embed/9O1Iy9od7-A"
   },
   {
     "movie_id": 5,
@@ -115,7 +115,7 @@
     "length_minutes":125,
     "min_age":18,
     "actors": ["Dan Castellaneta", "Julie Kavner"],
-    "trailer": "https://www.example.com/simpsons_movie_2_trailer.mp4"
+    "trailer":"https://www.youtube.com/embed/aLcnq7LF6bQ"
   },
   {
   "movie_id": 10,
