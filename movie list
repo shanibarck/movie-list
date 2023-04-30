@@ -117,17 +117,18 @@
     "actors": ["Dan Castellaneta", "Julie Kavner"],
     "trailer":"https://www.youtube.com/embed/aLcnq7LF6bQ"
   },
-  {
-  "movie_id": 10,
-  "name": "The Turning Point",
-  "description": "A story about two women, one a dedicated ballerina who sacrificed everything for her art, and the other a young woman from Seattle whose passion for dance overshadowed everything else in her life.",
-  "image": "https://www.example.com/the_turning_point.jpg",
-  "release_year": 1977,
-  "genre": ["Drama"],
-  "director": "Herbert Ross",
-  "length_minutes":125,
-  "min_age":18,
-  "actors": ["Anne Bancroft", "Shirley MacLaine"],
-  "trailer": "https://www.example.com/the_turning_point_trailer.mp4"
+ {
+"movie_id": 10,
+"name": "Black Swan",
+"description": "A story about a ballerina who gets cast as the lead in Swan Lake and begins to lose her grip on reality as she becomes more and more obsessed with her role.",
+"image": "https://www.example.com/black_swan.jpg",
+"release_year": 2010,
+"genre": ["Drama", "Thriller"],
+"director": "Darren Aronofsky",
+"length_minutes": 108,
+"min_age": 18,
+"actors": ["Natalie Portman", "Mila Kunis", "Vincent Cassel"],
+"trailer": "https://www.example.com/black_swan_trailer.mp4"
 }
+
 ]
