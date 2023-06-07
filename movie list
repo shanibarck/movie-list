@@ -10,7 +10,7 @@
     "length_minutes":125,
     "min_age":18,
     "actors": ["Tim Robbins", "Morgan Freeman"],
-    "trailer": "https://www.example.com/shawshank_redemption_trailer.mp4"
+    "trailer": "https://www.youtube.com/watch?v=NmzuHjWmXOc"
   },
   {
     "movie_id": 2,
@@ -36,7 +36,7 @@
     "length_minutes":125,
     "min_age":18,
     "actors": ["Christian Bale", "Heath Ledger"],
-    "trailer": "https://www.example.com/dark_knight_trailer.mp4"
+    "trailer": "https://www.youtube.com/watch?v=EXeTwQWrcwY"
   },
   {
     "movie_id": 4,
@@ -128,7 +128,7 @@
 "length_minutes": 108,
 "min_age": 18,
 "actors": ["Natalie Portman", "Mila Kunis", "Vincent Cassel"],
-"trailer": "https://www.example.com/black_swan_trailer.mp4"
+"trailer": "https://www.youtube.com/watch?v=5jaI1XOB-bs"
 }
 
 ]
