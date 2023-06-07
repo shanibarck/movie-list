@@ -3,7 +3,7 @@
     "movie_id": 1,
     "name": "The Shawshank Redemption",
     "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
-    "image": "https://www.example.com/shawshank_redemption.jpg",
+    "image": "https://i.ytimg.com/vi/19THOH_dvxg/movieposter_en.jpg",
     "release_year": 1994,
     "genre": ["Drama"],
     "director": "Frank Darabont",
