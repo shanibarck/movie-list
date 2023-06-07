@@ -10,7 +10,7 @@
     "length_minutes":125,
     "min_age":18,
     "actors": ["Tim Robbins", "Morgan Freeman"],
-    "trailer": "https://www.youtube.com/watch?v=NmzuHjWmXOc"
+    "trailer": "https://youtu.be/NmzuHjWmXOc"
   },
   {
     "movie_id": 2,
