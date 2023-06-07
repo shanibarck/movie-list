@@ -23,7 +23,7 @@
     "length_minutes":125,
     "min_age":18,
     "actors": ["Marlon Brando", "Al Pacino"],
-    "trailer": "https://www.youtube.com/embed/1x0GpEZnwa8"
+    "trailer": "https://www.youtube.com/embed/1x0GpEZnwa8",
   },
   {
     "movie_id": 3,
@@ -36,7 +36,7 @@
     "length_minutes":125,
     "min_age":18,
     "actors": ["Christian Bale", "Heath Ledger"],
-    "trailer": "https://www.youtube.com/watch?v=EXeTwQWrcwY"
+    "trailer": "https://www.youtube.com/embed/EXeTwQWrcwY",
   },
   {
     "movie_id": 4,
@@ -128,7 +128,7 @@
 "length_minutes": 108,
 "min_age": 18,
 "actors": ["Natalie Portman", "Mila Kunis", "Vincent Cassel"],
-"trailer": "https://www.youtube.com/watch?v=5jaI1XOB-bs"
+"trailer": "https://www.youtube.com/embed/5jaI1XOB-bs",
 }
 
 ]
